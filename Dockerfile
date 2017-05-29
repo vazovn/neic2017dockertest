@@ -4,4 +4,3 @@ MAINTAINER Nikolay Vazov nikolai.vazov@gmail.com
 
 RUN apt-get update -y
 RUN apt-get install wget -y
-RUN apt-get install vim -y
